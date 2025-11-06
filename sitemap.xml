@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Core -->
+  <url>
+    <loc>https://www.mecotraining.com/</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/l/products</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Main course / sales pages -->
+  <url>
+    <loc>https://www.mecotraining.com/p/boat-electrics-course</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/learn-about-your-onboard-boat-and-yacht-electrical-systems</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/marine-electronics</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/meco-boat-electrics-level-1-2-package</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/full-meco-masterclass</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/lithium</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/radar-masterclass</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Info / trust / policies -->
+  <url>
+    <loc>https://www.mecotraining.com/p/contact</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/grantsandfunding</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/cpd-certificate</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/school-policies</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/terms</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.40</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/privacy</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.40</priority>
+  </url>
+
+  <!-- Extra policy / procedure pages you had -->
+  <url>
+    <loc>https://www.mecotraining.com/p/responsible-marketing-procedure</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.40</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/reasonable-adjustments-policy</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.40</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/complaints-policy</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.40</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/course-content-review-policy</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.40</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/malpractice-policy</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.40</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/safeguarding-learner-policy</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.40</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/appeals-policy</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.40</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/evaluation-form</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.30</priority>
+  </url>
+  <url>
+    <loc>https://www.mecotraining.com/p/reflective-practice-record</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.30</priority>
+  </url>
+
+  <!-- Your human sitemap page -->
+  <url>
+    <loc>https://www.mecotraining.com/p/sitemap</loc>
+    <lastmod>2025-11-04T12:45:01+00:00</lastmod>
+    <priority>0.20</priority>
+  </url>
+
+</urlset>
